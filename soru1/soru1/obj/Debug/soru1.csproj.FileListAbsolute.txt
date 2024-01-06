@@ -1,0 +1,7 @@
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\bin\Debug\soru1.exe.config
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\bin\Debug\soru1.exe
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\bin\Debug\soru1.pdb
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\obj\Debug\soru1.csproj.AssemblyReference.cache
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\obj\Debug\soru1.csproj.CoreCompileInputs.cache
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\obj\Debug\soru1.exe
+C:\Users\bsanl\OneDrive\Masaüstü\webodevprojeleri\soru1\soru1\obj\Debug\soru1.pdb
